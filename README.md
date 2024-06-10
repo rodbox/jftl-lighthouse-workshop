@@ -1,2 +1,2 @@
 # jftl-lighthouse-workshop
-Workshop exercises for the jftl
+Workshop exercises for the jftl alt
